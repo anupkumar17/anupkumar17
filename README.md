@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @anupkumar17
 - 👀 I’m interested in ...Python and Data Science.
 - 🌱 I’m currently doing projects on Python ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...6360613623 and anoop17cs@gmail.com
 
 <!---
